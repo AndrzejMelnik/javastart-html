@@ -1,0 +1,17 @@
+.desc {
+    font-family:Arial;
+}
+h5 {
+  font-weight: bold;
+}
+h1 {
+    letter-spacing: 0.1;
+}
+body {
+    width: 90%; 
+    margin:0 auto;
+    padding: 0 100px 40px 400px;
+}
+a {
+    text-decoration: none;
+}
